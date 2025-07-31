@@ -1,0 +1,10 @@
+notebook/
+*.ipynb
+*.ipynb_checkpoints
+*.csv
+__pycache__/
+*.pkl
+!.gitattributes  # allow git-lfs files
+!.gitignore
+!model/model.pkl
+!model/tfidf.pkl
