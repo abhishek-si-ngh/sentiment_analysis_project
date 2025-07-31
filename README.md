@@ -40,7 +40,7 @@ sentiment_analysis_project/
 ```
 
 ## 🌐 Live Demo
-Deployed on Render: [https://sentiment-analysis-app.onrender.com](#)
+Deployed on Render: [https://sentiment-analyzer-ptk6.onrender.com]
 
 ## 📖 Related Tutorial
 👉 [Code2Tutorial Guide for Sentiment Analysis](https://code2tutorial.com/tutorial/99c68415-6aef-4f82-80a4-13634ff22169/index.md)
